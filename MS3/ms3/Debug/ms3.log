@@ -1,0 +1,3 @@
+﻿  LineManager.cpp
+D:\git repos\OOP345 PULL\Projects\OOP-Project\MS3\ms3\LineManager.cpp(81,28): warning C4018: '<': signed/unsigned mismatch
+  ms3.vcxproj -> D:\git repos\OOP345 PULL\Projects\OOP-Project\MS3\ms3\Debug\ms3.exe

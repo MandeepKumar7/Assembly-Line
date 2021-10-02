@@ -1,0 +1,2 @@
+D:\git repos\OOP345 PULL\Projects\OOP-Project\MS2\ms2\Debug\ms2.exe
+D:\git repos\OOP345 PULL\Projects\OOP-Project\MS2\ms2\Debug\ms2.pdb

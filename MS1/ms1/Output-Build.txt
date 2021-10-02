@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ms1, Configuration: Debug x64 ------
+1>Utilities.cpp
+1>ms1.vcxproj -> D:\git repos\OOP345 PULL\Projects\OOP-Project\MS1\ms1\x64\Debug\ms1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
