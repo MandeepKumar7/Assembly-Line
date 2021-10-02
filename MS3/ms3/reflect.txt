@@ -1,9 +1,0 @@
-// Name: Mandeep Kumar
-// Seneca Student ID: 157972183
-// Seneca email: mkumar62@myseneca.ca
-// Date of completion: 2021-04-15
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
-
-While doing final project I learned many important concepts of C++. This project was a good revision for the entire course. It was not that lengthy based on the amount of time we got to complete the project, but it was not easy either. In this project I implemented total five modules. Utilities module is used for some general functionalities that was required throughout the project like extracting tokens from a string etc. Station module was used to hold the functionalities of a single station on the assembly line that fills a specific item in the order. CustomerOrder module holds the data and functionalities for processing customer orders and fill the Items on each station as required. Workstation module acts as a working station which is activated to fill a specific item in the order and the LineManager module is used to move orders from one station to other station on the assembly line and it also configures the assembly line before moving the Customer orders. LineManager module was most difficult module in whole project. I had lots of difficulties while implementing LineManager module because it was getting harder to debug the code due to complexity of the project. OOP345 was one of the most difficult courses till now, but Fardad made it easier. Thank you Fardad for teaching the fundamental concepts of each topic.
